@@ -1,0 +1,6 @@
+classpath:resources/aws.properties 
+classpath:resources/config.json 
+file://C:\jdbc.properties 
+file://C:\jdbc.json 
+http://www.scintilla.org/tads3.properties 
+http://fr.gravatar.com/flop25.json
