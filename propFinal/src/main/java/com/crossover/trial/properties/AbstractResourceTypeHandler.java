@@ -1,4 +1,4 @@
-package com.crossover.trial.properties;
+package com.yeldan.properties;
 
 import java.util.Map;
 
